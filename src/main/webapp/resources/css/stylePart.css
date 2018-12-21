@@ -1,0 +1,38 @@
+body {
+    background: #FFDABF;
+    margin: 0;
+    padding: 0;
+    alignment: center;
+}
+
+header {
+    width: 696px;
+    border: 2px solid #EEE;
+    background-color: #c7c7ff;
+    font-family: sans-serif;
+    alignment: center;
+
+}
+.list{
+    background-color: #c7c7ff;
+    margin: 0 25% ;
+}
+table {
+    border: 2px solid white;
+    width: 698px;
+    font-family: sans-serif;
+    margin: 0;
+    background-color: #FFB580;
+}
+
+th {
+    background-color: lightslategray;
+    color: #c9bb9f;
+}
+
+td {
+    text-align: left;
+}
+.filterTable{
+    width: 80%;
+}
